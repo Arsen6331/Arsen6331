@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello! I am Arsen Musayelyan, a 17-year-old Software Engineer.
 
-<!--
-**Arsen6331/Arsen6331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am very passionate about programming and open-source software. I really enjoy contributing to the community by creating open-source projects and contributing to existing projects. My favorite topics include embedded software, cryptography, automation, networking, and the Linux operating system.
 
-Here are some ideas to get you started:
+Privacy is very important to me, so I also self-host various services from many physical servers in my house, which I really enjoy doing. I use the amazing [Nomad](https://github.com/hashicorp/nomad), [Consul](https://github.com/hashicorp/consul), and [Traefik](https://github.com/traefik/traefik) to automate the deployment and configuration of my services, and keep them manageable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Arsen6331's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsen6331&theme=radical)
+
+![Arsen6331's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsen6331&hide=javascript,html,css,sass&theme=radical)
+
+---
