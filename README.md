@@ -2,7 +2,7 @@ Hello! I am Arsen Musayelyan, a 17-year-old Software Engineer.
 
 I am very passionate about programming and open-source software. I really enjoy contributing to the community by creating open-source projects and contributing to existing projects. My favorite topics include embedded software, cryptography, automation, networking, and the Linux operating system.
 
-Privacy is very important to me, so I also self-host various services from many physical servers in my house, which I really enjoy doing. I use the amazing [Nomad](https://github.com/hashicorp/nomad), [Consul](https://github.com/hashicorp/consul), and [Traefik](https://github.com/traefik/traefik) to automate the deployment and configuration of my services, and keep them manageable.
+Privacy is very important to me, so I also self-host various services from many physical servers in my house, which I really enjoy doing. I use the amazing [Nomad](https://github.com/hashicorp/nomad), [Consul](https://github.com/hashicorp/consul), and [Traefik](https://github.com/traefik/traefik) to automate the deployment, configuration, and management of my services.
 
 ---
 
