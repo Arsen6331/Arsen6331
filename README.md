@@ -4,7 +4,7 @@ I am very passionate about programming and open-source software. I really enjoy 
 
 Privacy is very important to me, so I also self-host various services from many physical servers in my house, which I really enjoy doing. I use the amazing [Nomad](https://github.com/hashicorp/nomad), [Consul](https://github.com/hashicorp/consul), and [Traefik](https://github.com/traefik/traefik) to automate the deployment, configuration, and management of my services.
 
-I do most development at https://gitea.arsenm.dev/Arsen6331, but my most interesting projects are mirrored to Github as well.
+I do most of my development at https://gitea.arsenm.dev/Arsen6331, but my most interesting projects are mirrored to Github as well.
 
 ---
 
