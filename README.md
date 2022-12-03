@@ -1,4 +1,4 @@
-Hello! I am Arsen Musayelyan, a 17-year-old Software Engineer.
+Hello! I am Arsen Musayelyan.
 
 I am very passionate about programming and open-source software. I really enjoy contributing to the community by creating open-source projects and contributing to existing projects. My favorite topics include embedded software, cryptography, automation, networking, and the Linux operating system.
 
