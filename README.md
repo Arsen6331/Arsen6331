@@ -10,6 +10,6 @@ I do most of my development at https://gitea.arsenm.dev/Arsen6331, but my most i
 
 ![Arsen6331's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsen6331&theme=radical)
 
-![Arsen6331's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsen6331&hide=javascript,html,css,sass&theme=radical)
+![Arsen6331's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsen6331&hide=css,html,sass&theme=radical)
 
 ---
